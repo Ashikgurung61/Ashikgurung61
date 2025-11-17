@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashik Gurung</h1>
 <h3 align="center">A passionate learner</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif">
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 👨‍💻 About Me
 - 🔭 Currently building **SaCyc**  
